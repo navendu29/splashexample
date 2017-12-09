@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/engi2018.iml" filepath="$PROJECT_DIR$/engi2018.iml" />
+      <module fileurl="file://C:\Users\Daljit\AndroidStudioProjects\splashexample\app\app.iml" filepath="C:\Users\Daljit\AndroidStudioProjects\splashexample\app\app.iml" />
+      <module fileurl="file://C:\Users\Daljit\AndroidStudioProjects\splashexample\engi2018.iml" filepath="C:\Users\Daljit\AndroidStudioProjects\splashexample\engi2018.iml" />
+      <module fileurl="file://$PROJECT_DIR$/splashexample.iml" filepath="$PROJECT_DIR$/splashexample.iml" />
     </modules>
   </component>
 </project>
